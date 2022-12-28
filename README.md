@@ -7,6 +7,8 @@ It is a component that allows you to create horizontal or vertical menus on dema
 Use the package manager [npm](https://www.npmjs.com/) to install packages.
 
 ```bash
+git clone git@github.com:gvercaemer/JSMenu.git
+cd JSMenu
 npm install
 ```
 
